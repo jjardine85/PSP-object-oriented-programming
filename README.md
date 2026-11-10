@@ -1,2 +1,6 @@
 # PSP-object-oriented-programming
-A simple repository with three connected classes. A "Customer" class, an "Account" class and a "Transaction" class.
+A simple repository with three connected classes. 
+
+A "Customer" class, an "Account" class and a "Transaction" class.
+
+These classes are written in JavaScript.
