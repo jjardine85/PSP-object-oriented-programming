@@ -1,4 +1,7 @@
-export class Account {
+import Transaction from './Transaction.js'
+
+
+export default class Account {
     constructor(type, balance) {
         this.type = type;
         this.balance = balance;
