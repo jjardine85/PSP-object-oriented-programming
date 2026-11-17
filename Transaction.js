@@ -3,4 +3,12 @@ export default class Transaction {
         this.value = value;
         this.direction = direction;
     }
+
+    getValue() {
+        return this.value;
+    }
+
+    getDirection() {
+        return this.direction;
+    }
 }
