@@ -5,4 +5,29 @@ export class Customer {
         this.dateOfBirth = dateOfBirth;
         this.account = account;
     }
+
+    
+    getName() {
+        return this.name;
+    }
+
+    getAddress() {
+        return this.address;
+    }
+
+    setAddress(address) {
+        this.address = address;
+    }
+
+    getAddress() {
+        return this.address;
+    }
+
+    getDateOfBirth() {
+        return this.dateOfBirth;
+    }
+
+    getAccount() {
+        return this.account;
+    }
 }
